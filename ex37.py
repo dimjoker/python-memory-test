@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-#This is a MEMORY TEST script.
-#star() function is used to start the program by choosing the test content, the give the name of test content to exercise() function.
-#exercise() function open() read() and splitlines() functions to make the content of the files which is including exercises and answers to lists.
-#Now it just run by list, it can not run random.
+# This is a MEMORY TEST script.
+# star() function is used to start the program by choosing the test content, the give the name of test content to exercise() function.
+# exercise() function open() read() and splitlines() functions to make the content of the files which is including exercises and answers to lists.
+# Now it just run by list, it can not run random.
 
 def start():
     print "Which test do you want to run?"
