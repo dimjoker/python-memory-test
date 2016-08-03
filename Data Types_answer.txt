@@ -1,0 +1,8 @@
+True
+False
+None
+string
+number
+float
+lists
+dicts

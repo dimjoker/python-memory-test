@@ -1,0 +1,10 @@
+Backslash
+Single-quote
+Double-quote
+Bell
+Backspace
+Formfeed
+Newline
+Carriage
+Tab
+Vertical tab

@@ -1,0 +1,30 @@
+Addition
+Subtraction
+Multiplication
+Power of
+Division
+Floor division
+String interpolate or modulus
+Less than
+Greater than
+Less than equal
+Great than equal
+Equal
+Not equal
+Not equal
+Parenthesis
+List brackets
+Dict curly braces
+At(decorators)
+Comma
+Colon
+Dot
+Assign equal
+semi-colon
+Add and assign
+Subtract and assign
+Multiply and assign
+Divide and assign
+Floor divide and assign
+Modulus assign
+Power assign

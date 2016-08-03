@@ -1,0 +1,8 @@
+True boolean value.
+False boolean value.
+Represents "nothing" or "no value".
+Stores textual information.
+Stores integers.
+Stores decimals.
+Stores a list of things.
+Stores a key = value mapping of things.

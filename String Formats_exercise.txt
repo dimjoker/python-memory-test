@@ -1,0 +1,16 @@
+Decimal integers(not floating point).
+Same as %d.
+Octal number.
+Unsigned decimal.
+Hexadecimal lowercase.
+Hexadecimal uppercase.
+Exponential notation, lowercase'e'.
+Exponential notation, uppercase'E'.
+Floating point real number.
+Same as %f
+Either %f or %e, whichever is shorter.
+Same as %g but uppercase.
+Character format.
+Repr format(debugging format).
+String format.
+A percent sign.
