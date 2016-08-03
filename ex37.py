@@ -9,7 +9,7 @@ def start():
     print "Keywords, Data Types, String Escape Sequences, String Formats or Operators"
     program = raw_input("> ")
     exercise(program)
-    
+
 def exercise(program):
     filename_exercise = program + "_exercise.txt"
     filename_answer = program + "_answer.txt"
@@ -39,5 +39,5 @@ def exercise(program):
     for w in range(0, i - right):
         print incorrect_result[w], incorrect[w]
         w += 1
-    
+
 start()
